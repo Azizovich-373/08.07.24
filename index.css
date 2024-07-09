@@ -113,12 +113,9 @@ header{
 .pub_img{
     margin: 10px auto 16px;
     width: 100%;
-    height: 408px;
-    background-color: gray;
 }
 .img_post{
     width: 576px;
-    height: 408px;
 }
 .using_emoji{
     display: flex;
